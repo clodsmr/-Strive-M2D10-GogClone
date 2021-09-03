@@ -1,0 +1,83 @@
+body {
+    background-color: black;
+}
+
+.page {
+    background-color: rgb(153, 152, 152);
+}
+
+#navbarDropdown {
+
+    color: #ccc;
+    font-size: 14px;
+    font-weight: 600;
+    
+
+}
+
+.bg-dark {
+    background-color: rgb(51, 50, 50);
+}
+
+.highlights {
+   margin-left: 13px;
+   margin-top: 20px;
+
+
+}
+
+div.highlights {
+    border-bottom: 1px solid grey;
+}
+
+.buy {
+
+    background-color: rgb(135, 189, 135);
+    color: white;
+}
+
+#carCaption {
+    position: absolute;
+    left: 430 px;
+
+
+}
+
+.card-deck{
+
+    margin-top: 40px;
+}
+
+p.card-text {
+    font-size: 12px;
+}
+
+.container-fluid {
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.textCol {
+    display: inline-flex;
+}
+
+p.text {
+   display: inline-block; 
+   font-size: small;
+}
+
+.col-8 {
+    border-right: 1px solid grey;
+
+}
+
+.text.viola {
+
+    color:indigo;
+    font-weight: bold;
+    line-height: 1px;
+}
